@@ -1,0 +1,132 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F28AB2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card
+{
+    box-sizing: border-box;
+    background: white;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 450px;
+    height: 90vh;
+    padding:30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.counter
+{
+    font-family: 'Mulish', sans-serif;
+    color: #333638;
+    text-align: right;
+}
+
+.clear-btn
+{
+    border: none;
+    text-decoration: none;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    padding: 8px;
+    background: linear-gradient(270deg, rgba(246,117,167,1) 2%, rgba(242,138,178,1) 43%, rgba(242,138,238,1) 100%);
+    cursor: pointer;     
+}
+
+.list{
+    overflow: scroll;
+    color: #333638;
+}
+
+.list::-webkit-scrollbar {
+    display: none;
+  }
+
+.btn
+{
+    border: 2px solid #F28AB2;
+    padding: 5px;
+    text-decoration: none;
+    color: #F28AB2;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer; 
+}
+
+.btn:hover
+{
+    border: 2px solid #F28AB2;
+    color: white;
+    background-color: #F28AB2;   
+}
+
+.person-container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.person-profile{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Mulish', sans-serif;
+}
+
+.person-profile .info .name{
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+
+.person-profile img{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.add-form{  
+    box-sizing: border-box;
+    background-color: #F1E6EA;
+    font-family: 'Mulish', sans-serif;
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.add-form input{
+    margin: 1px;
+    margin-left: 19px;
+}
+
+.add-btn
+{
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+    color: white;
+    min-width: 75px;
+    min-height: 75px;
+    font-family: 'Mulish', sans-serif;
+    padding: 20px;
+    background: linear-gradient(270deg, rgba(246,117,167,1) 2%, rgba(242,138,178,1) 43%, rgba(242,138,238,1) 100%);
+    cursor: pointer;     
+}
+
+.highlight{
+    border: 3px solid #F28AB2;
+    color: #F28AB2;
+}

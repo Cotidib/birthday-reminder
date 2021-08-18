@@ -1,0 +1,7 @@
+Design from https://www.uidesigndaily.com/
+
+background pink : #F28AB2
+
+soft pink : #F1E6EA
+
+letters black : #333638
