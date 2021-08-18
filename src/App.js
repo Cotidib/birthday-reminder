@@ -41,7 +41,7 @@ function App() {
 
   const handleSubmit = (name,day,img) => {
    
-    if(name !== "" && day !== "")
+    if(name !== "" && day !== "" && img !== "")
     {
       console.log("adding " + name);
       

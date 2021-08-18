@@ -36,7 +36,7 @@ body
     text-decoration: none;
     color: white;
     font-family: 'Mulish', sans-serif;
-    padding: 8px;
+    padding: 9px;
     background: linear-gradient(270deg, rgba(246,117,167,1) 2%, rgba(242,138,178,1) 43%, rgba(242,138,238,1) 100%);
     cursor: pointer;     
 }
