@@ -6,7 +6,7 @@ This is my version of the Birthday Reminder project in ['Code 15 React Projects'
 ### Overview and learnings
 Birthday Reminder is a simple app that stores a list of friends and displays how many of their birthdays are at the current date.
 
-The main React functionality I learned is how to dynamically add components and then how to remove them.
+The main React functionality I learned are how to dynamically add components and then how to remove them.
 I made my own setup, styling and added some extra features to the original idea of the project.
 
 ### Live Site
