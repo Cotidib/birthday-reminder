@@ -1,7 +1,7 @@
 # birthday-reminder
 Practice project made with React Js and React Hooks.
 
-This is my version of the Birthday Reminder project in ['Code 15 React Projects' course by John Smilga](https://youtu.be/a_7Z7C_JCyo), following the practice of "Watch and then Do". 
+This is my version of the Birthday Reminder project in ['Code 15 React Projects' course by John Smilga](https://youtu.be/a_7Z7C_JCyo).
 
 ### Overview and learnings
 Birthday Reminder is a simple app that stores a list of friends and displays how many of their birthdays are at the current date.
