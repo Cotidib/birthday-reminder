@@ -12,4 +12,6 @@ I made my own setup, styling and added some extra features to the original idea 
 ### Live Site
 https://constanzas-birthday-reminder.netlify.app/
 
+### Resources
 
+[UI Design Daily](https://www.uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
